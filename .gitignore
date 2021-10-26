@@ -1,0 +1,6 @@
+target/
+build/
+main.out
+errorlogs/
+replays/
+simple.tar.gz
